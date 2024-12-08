@@ -1,7 +1,7 @@
 # Numerical-Analysis
 This repository contains Python implementations of various numerical analysis methods that I've studied. It serves as a collection of algorithms and techniques from the field of numerical mathematics, aimed at solving a wide range of mathematical problems. The repository includes methods for:
 
-Newton Interpolation(with polynomial generation and point approximation) 
+Newton Interpolation(with polynomial generation and point approximation) <br>
 Lagrange Interpolation(with polynomial generation and point approximation) 
 And more to be added alongthe way
 
